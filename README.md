@@ -96,9 +96,6 @@ The repository will continue to grow throughout my master's program. Upcoming ad
 
 ## 🔗 Get Connected
 
-![Email](https://img.shields.io/badge/Email-victor.mariscal4459@alumnos.udg.mx-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-100000?style=for-the-badge&logo=github&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 Have questions, suggestions, or interested in collaborating? I'd love to hear from you!
 
